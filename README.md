@@ -7,7 +7,7 @@ In this project i have applied unsupervised learning techniques on product spend
 Project Highlights
 This project is designed to give you a hands-on experience with unsupervised learning and work towards developing conclusions for a potential client on a real-world dataset. Many companies today collect vast amounts of data on customers and clientele, and have a strong desire to understand the meaningful relationships hidden in their customer base. Being equipped with this information can assist a company with future products and services that best satisfy the demands or needs of their customers.
 
-Things I have learned after completing this project:
+### Things I have learned after completing this project:
 
 How to apply preprocessing techniques such as feature scaling and outlier detection.
 
